@@ -20,7 +20,7 @@ The Specialization offers a comprehensive learning path to:
 
 ## Table of Contents
 The Specialization includes thre courses:
-* Course one: Supervised Machine Learning: Regression and Classification.
+* Course one: [Supervised Machine Learning: Regression and Classification](1.%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/).
 * Course ttwo: Advanced Learning Algorithms.
 * Course three: Unsupervised Learning: Recommenders, Reinforcement Learning.
 
